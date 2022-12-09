@@ -1,1 +1,2 @@
 # school-rc
+hi
